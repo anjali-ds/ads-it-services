@@ -1,0 +1,10 @@
+.carousel{
+    margin: 0px !important;
+    padding: 0px !important; 
+    margin-top: 88px !important;
+}
+@media (min-width: 250px) and (max-width:500px) {
+    .carousel-item img{
+      height: 100px;
+    }
+  }
