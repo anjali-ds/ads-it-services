@@ -1,0 +1,12 @@
+
+.navbar-collapse{
+  padding-left: 30px;
+}
+.navbar a{
+  color: white !important;
+}
+@media (min-width: 250px) and (max-width:500px) {
+  .navbar{
+    padding: 10px 10px !important;
+  }
+}
