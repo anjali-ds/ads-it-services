@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* logo color classes */
+.org{
+  color: #f08143;
+}
+.ylw{
+  color: #fecc00;
+}
+.blu{
+  color: #008dd2;
+}
+.dblu{
+  color: #56698f;
+}
+.center{
+  text-align: center !important;
+}

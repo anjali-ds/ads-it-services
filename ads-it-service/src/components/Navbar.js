@@ -25,10 +25,12 @@ function Navbars(props) {
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="me-auto">
-          <Nav.Link href="#features">Home</Nav.Link>
-            <Nav.Link href="#pricing">About</Nav.Link>
-            <Nav.Link href="#pricing">Services</Nav.Link>
-            <Nav.Link href="#pricing">Contact Us</Nav.Link>
+          <Nav.Link > <NavLink to="/">Home</NavLink></Nav.Link>
+          <Nav.Link > <NavLink to="/about">About Us</NavLink></Nav.Link>
+          <Nav.Link > <NavLink to="/services">Services</NavLink></Nav.Link>
+          <Nav.Link > <NavLink to="/contact">Contact Us</NavLink></Nav.Link>
+           
+           
             <NavDropdown title="Dropdown" id="collapsible-nav-dropdown">
               <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
               <NavDropdown.Item href="#action/3.2">
@@ -42,10 +44,8 @@ function Navbars(props) {
             </NavDropdown>
           </Nav>
           <Nav>
-            <Nav.Link href="#deets">More deets</Nav.Link>
-            <Nav.Link eventKey={2} href="#memes">
-              Dank memes
-            </Nav.Link>
+          <Nav.Link > <NavLink to="/a">More</NavLink></Nav.Link>
+          <Nav.Link > <NavLink to="/b">Else</NavLink></Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
