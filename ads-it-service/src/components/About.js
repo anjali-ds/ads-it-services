@@ -24,12 +24,9 @@ function About(props) {
                             <div className="col-lg-7">
                                 <div className="content-left" data-aos="fade-right" >
                                     <p>
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda dicta beatae saepe corporis, quia eveniet sint maiores earum maxime, ea explicabo, vitae corrupti necessitatibus! Obcaecati quibusdam repellat earum quasi voluptatum.
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda dicta beatae saepe corporis, quia eveniet sint maiores earum maxime, ea explicabo, vitae corrupti necessitatibus! Obcaecati quibusdam repellat earum quasi voluptatum.
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda dicta beatae saepe corporis, quia eveniet sint maiores earum maxime, ea explicabo, vitae corrupti necessitatibus! Obcaecati quibusdam repellat earum quasi voluptatum.
-
-                                        Animi iusto distinctio voluptates, ut dolore aut asperiores eveniet illo debitis esse temporibus in eum, saepe nihil laudantium corrupti excepturi pariatur rerum quisquam sed, alias repellendus. Eius molestias ullam dolores.</p>
-                                </div>
+                                    Welcome to ADS IT SERVICES , where innovation meets reliability. With a proven track record of delivering customized IT solutions tailored to your unique business objectives, we offer 24/7 support, cutting-edge technology, robust cybersecurity, and cost-effective services to ensure your success. Our client-centric approach, passion for technology, and commitment to security make us your trusted partner for all your IT needs. Contact [ADS IT SERVICES] today to leverage the power of technology and drive your business forward.
+                                    </p>
+                                      </div>
                             </div>
                             <div className="col-lg-5" >
                                 <div className="content-right" data-aos="fade-left">
@@ -48,11 +45,7 @@ function About(props) {
                             <div className="col-lg-7">
                                 <div className="content-left1" data-aos="fade-up-right">
                                     <p>
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda dicta beatae saepe corporis, quia eveniet sint maiores earum maxime, ea explicabo, vitae corrupti necessitatibus! Obcaecati quibusdam repellat earum quasi voluptatum.
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda dicta beatae saepe corporis, quia eveniet sint maiores earum maxime, ea explicabo, vitae corrupti necessitatibus! Obcaecati quibusdam repellat earum quasi voluptatum.
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda dicta beatae saepe corporis, quia eveniet sint maiores earum maxime, ea explicabo, vitae corrupti necessitatibus! Obcaecati quibusdam repellat earum quasi voluptatum.
-
-                                        Animi iusto distinctio voluptates, ut dolore aut asperiores eveniet illo debitis esse temporibus in eum, saepe nihil laudantium corrupti excepturi pariatur rerum quisquam sed, alias repellendus. Eius molestias ullam dolores.</p>
+                                    At ADS IT SERVICE , we specialize in comprehensive IT services to streamline your business operations and drive success. Our services encompass managed IT solutions, tailored to your specific needs, ensuring the reliability and security of your systems. We offer network services to optimize connectivity and provide cloud solutions, data management, and hardware procurement, all designed to enhance efficiency. Our 24/7 support minimizes downtime, and we keep your team up to date through training and education programs. Trust ADS IT SERVICES to be your dedicated IT partner, delivering innovative, secure, and cost-effective services to fuel your growth and success.</p>
                                 </div>
                             </div>
                             <div className="col-lg-5" data-aos="fade-up-left">
@@ -78,11 +71,7 @@ function About(props) {
                             <div className="col-lg-7">
                                 <div className="content-right2" data-aos="flip-right" >
                                     <p>
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda dicta beatae saepe corporis, quia eveniet sint maiores earum maxime, ea explicabo, vitae corrupti necessitatibus! Obcaecati quibusdam repellat earum quasi voluptatum.
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda dicta beatae saepe corporis, quia eveniet sint maiores earum maxime, ea explicabo, vitae corrupti necessitatibus! Obcaecati quibusdam repellat earum quasi voluptatum.
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda dicta beatae saepe corporis, quia eveniet sint maiores earum maxime, ea explicabo, vitae corrupti necessitatibus! Obcaecati quibusdam repellat earum quasi voluptatum.
-
-                                        Animi iusto distinctio voluptates, ut dolore aut asperiores eveniet illo debitis esse temporibus in eum, saepe nihil laudantium corrupti excepturi pariatur rerum quisquam sed, alias repellendus. Eius molestias ullam dolores.</p>
+                                    Choose us because we're not just an IT service provider; we're your dedicated technology partner. Our team of experienced experts goes above and beyond to understand your specific needs and deliver customized solutions that ensure your business's success. We pride ourselves on our 24/7 support, using cutting-edge technology, robust cybersecurity, and cost-effective services to keep your operations running smoothly. With a commitment to transparent communication, a focus on innovation, and a passion for technology, we stand out as the trusted choice for all your IT needs. Your growth and security are our top priorities, making [ADS IT SERVICES] the right partner to help you thrive in the digital age..</p>
                                 </div>
                             </div>
                         </div>
