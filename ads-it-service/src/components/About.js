@@ -1,6 +1,8 @@
 import React ,{useEffect} from 'react';
 import './About.css';
-import a from '../images/LOGO/ads logo black.png'
+import a from '../images/About/about us.png'
+import b from '../images/About/what we do about.png'
+import c from '../images/About/why choose us.png'
 import Aos from 'aos';
 import 'aos/dist/aos.css'
 import OwlCarousel from 'react-owl-carousel';
@@ -50,7 +52,7 @@ function About(props) {
                             </div>
                             <div className="col-lg-5" data-aos="fade-up-left">
                                 <div className="content-right1">
-                                    <img src={a} alt="" width="100%" />
+                                    <img src={b} alt="" width="100%" />
                                 </div>
                             </div>
                         </div>
@@ -64,7 +66,7 @@ function About(props) {
 
                             <div className="col-lg-5" data-aos="flip-left">
                                 <div className="content-left2">
-                                    <img src={a} alt="" width="100%" />
+                                    <img src={c} alt="" width="100%" />
                                 </div>
 
                             </div>

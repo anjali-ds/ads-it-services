@@ -27,7 +27,7 @@ function Navbars(props) {
           <Nav className="me-auto">
           <Nav.Link > <NavLink to="/">Home</NavLink></Nav.Link>
           <Nav.Link > <NavLink to="/about">About Us</NavLink></Nav.Link>
-          <Nav.Link > <NavLink to="/services">Services</NavLink></Nav.Link>
+          <Nav.Link > <NavLink to="/service">Services</NavLink></Nav.Link>
           <Nav.Link > <NavLink to="/contact">Contact Us</NavLink></Nav.Link>
            
            
@@ -50,6 +50,7 @@ function Navbars(props) {
         </Navbar.Collapse>
       </Container>
     </Navbar>
+
         </div>
     );
 }
