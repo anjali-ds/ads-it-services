@@ -9,6 +9,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import About from './components/About';
 import Service from './components/Service';
 import Contact from './components/Contact';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -27,6 +28,7 @@ function App() {
      <Route exact path = "/contact" element ={ <Contact/> }></Route>
      </Routes>
      {/* </Router> */}
+     <Footer/>
     </div>
   );
 }
